@@ -2,7 +2,7 @@
 Web加盟店申込で使えるツールを管理
 
 
-# weborder.jsの使い方
+## weborder.jsの使い方
 1. weborder_public_toolsをダウンロードします。
 2. プロジェクトにweborder.jsを追加します。
 3. プロジェクトでweborder.jsをロードします。
